@@ -1,0 +1,9 @@
+# Ignore "cert" and "managed_components" folders and subfolders
+**/cert/
+**/certs/
+**/certificates/
+**/managed_components/
+
+# Ignore files with "crt" and "key" extensions
+*.crt
+*.key
